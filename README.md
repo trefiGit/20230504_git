@@ -1,10 +1,10 @@
 # 20230504
 
-https://training.github.com/downloads/github-git-cheat-sheet.pdf
-https://training.github.com/downloads/github-git-cheat-sheet/
-https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+1. https://training.github.com/downloads/github-git-cheat-sheet.pdf
+2. https://training.github.com/downloads/github-git-cheat-sheet/
+3. https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 
-https://git-scm.com/docs
+4. https://git-scm.com/docs
 
-https://git-scm.com/docs/giteveryday
-https://git-scm.com/docs/gittutorial
+5. https://git-scm.com/docs/giteveryday
+6. https://git-scm.com/docs/gittutorial
