@@ -4,3 +4,5 @@ Szolgáljon ki 70 darab munkaállomást és 3 szervert
 A hálózatban legyen redundancia a fizikai rétegben és a hálózati rétegben is (STP, Eth, HSRP)
 Az általános biztonsági feltételeknek feleljen meg (VLAN, Port-sec, DHCP snooping, DAI, STP)
 Legyen sávon belülről és kívülről is konfigurálható
+
+Minden egyes új protokoll/technika/technológia konfigurálása után legyen egy git commit, hogy a hálózat bármelyik konfigurációs állípotába visszaállítható legyen
