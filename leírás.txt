@@ -6,3 +6,5 @@ Az általános biztonsági feltételeknek feleljen meg (VLAN, Port-sec, DHCP sno
 Legyen sávon belülről és kívülről is konfigurálható
 
 Minden egyes új protokoll/technika/technológia konfigurálása után legyen egy git commit, hogy a hálózat bármelyik konfigurációs állípotába visszaállítható legyen
+
+Új repó létrehozása -> konfig fájlok, .pkt, .gitignore
