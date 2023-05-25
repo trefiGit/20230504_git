@@ -1,0 +1,14 @@
+!alapkonfigok
+hostname
+asfawfgaw
+awgawgaw
+gawgawgaw
+gaawgawg
+awgawgaw
+!
+!ssh
+asfawfgawawf
+awfawfg
+segseg
+seg
+rshsrh
